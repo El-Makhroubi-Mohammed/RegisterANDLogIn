@@ -1,0 +1,6 @@
+2022-10-11 23:27:31.3625 INFO Processing a login attempt
+2022-10-11 23:27:31.4170 INFO Name : MaxPassword : Password!
+2022-10-11 23:27:31.7788 INFO Login success
+2022-10-11 23:27:59.1956 INFO Processing a login attempt
+2022-10-11 23:27:59.1956 INFO Name : MaxPassword : slfjslfjlsd
+2022-10-11 23:27:59.1956 WARN Login failed

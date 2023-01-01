@@ -1,0 +1,18 @@
+2022-10-12 00:10:45.2764 INFO Processing a login attempt
+2022-10-12 00:10:45.3227 INFO Name : MaxPassword : Password!
+2022-10-12 00:10:46.4964 INFO Login success
+2022-10-12 00:11:15.1851 INFO Processing a login attempt
+2022-10-12 00:11:15.1851 INFO Name : fsfsPassword : sfsdf
+2022-10-12 00:11:15.1931 WARN Login failed
+2022-10-12 23:13:27.2994 INFO Processing a login attempt
+2022-10-12 23:13:27.3312 INFO Name : MaxPassword : Password!
+2022-10-12 23:13:29.2372 INFO Login success
+2022-10-12 23:14:25.3211 INFO Processing a login attempt
+2022-10-12 23:14:25.3650 INFO Name : MaxPassword : Password!
+2022-10-12 23:14:25.6384 INFO Login success
+2022-10-12 23:14:56.4479 INFO Processing a login attempt
+2022-10-12 23:14:56.4479 INFO Name : MaxPassword : Password!
+2022-10-12 23:14:56.4479 INFO Login success
+2022-10-12 23:26:01.6406 INFO Entering the ProcessLogin method
+2022-10-12 23:26:02.6258 INFO Leaving the ProcessLogin method
+2022-10-12 23:26:02.6258 INFO User that logged in : Max
